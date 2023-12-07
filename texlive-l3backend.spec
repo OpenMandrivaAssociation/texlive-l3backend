@@ -1,6 +1,6 @@
 Name:		texlive-l3backend
-Version:	64836
-Release:	2
+Version:	68821
+Release:	1
 Summary:	LaTeX3 backend drivers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/l3backend
