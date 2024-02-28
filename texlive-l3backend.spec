@@ -1,5 +1,5 @@
 Name:		texlive-l3backend
-Version:	69310
+Version:	70027
 Release:	1
 Summary:	LaTeX3 backend drivers
 Group:		Publishing
