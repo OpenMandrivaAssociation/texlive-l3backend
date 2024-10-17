@@ -3,7 +3,7 @@ Version:	71991
 Release:	1
 Summary:	LaTeX3 backend drivers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/l3backend
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/l3backend
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/l3backend.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/l3backend.doc.r%{version}.tar.xz
